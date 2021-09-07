@@ -15,7 +15,6 @@ This is because I am interested in the relation between median age, sex and race
 
 After extracting data from ACS data site, create pandas DataFrame.<br>
 When I created a table, I set state, county, track block_group as primary keys.<br>
-
 Once I converted DataFrame to csv file and inserted the data into the table because I read the article that said this way is very fast.<br>
 https://towardsdatascience.com/upload-your-pandas-dataframe-to-your-database-10x-faster-eb6dc6609ddf
 
