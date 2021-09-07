@@ -1,7 +1,7 @@
 # Data_Collection_and_ETL
-I chose the 8 variables from American Community Survey 5-Year Data on 2019 as follows:<br>
+I chose the 8 variables from American Community Survey 5-Year Data on 2019 using API as follows:<br>
 
-Variable:<br>
+Variables:<br>
 B01001_001E: Total_Pop<br>
 B01001_002E: Total_Pop_M<br>
 B01001_026E: Total_Pop_F<br>
@@ -11,4 +11,4 @@ B02001_003E: Race(African)<br>
 B02001_004E: Race(NativeAmerican)<br>
 B02001_005E: Race(Asian)<br>
 
-This is because 
+This is because I am interested in the relation between median age, sex and race.<br>
